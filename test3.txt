@@ -1,2 +1,0 @@
-This is test file 3.
-And this is the modified content 
